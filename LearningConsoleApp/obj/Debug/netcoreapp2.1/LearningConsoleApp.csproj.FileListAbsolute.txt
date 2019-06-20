@@ -1,0 +1,11 @@
+C:\Users\nawal.sharma\source\repos\KFAServices\LearningConsoleApp\bin\Debug\netcoreapp2.1\LearningConsoleApp.deps.json
+C:\Users\nawal.sharma\source\repos\KFAServices\LearningConsoleApp\bin\Debug\netcoreapp2.1\LearningConsoleApp.runtimeconfig.json
+C:\Users\nawal.sharma\source\repos\KFAServices\LearningConsoleApp\bin\Debug\netcoreapp2.1\LearningConsoleApp.runtimeconfig.dev.json
+C:\Users\nawal.sharma\source\repos\KFAServices\LearningConsoleApp\bin\Debug\netcoreapp2.1\LearningConsoleApp.dll
+C:\Users\nawal.sharma\source\repos\KFAServices\LearningConsoleApp\bin\Debug\netcoreapp2.1\LearningConsoleApp.pdb
+C:\Users\nawal.sharma\source\repos\KFAServices\LearningConsoleApp\obj\Debug\netcoreapp2.1\LearningConsoleApp.csprojAssemblyReference.cache
+C:\Users\nawal.sharma\source\repos\KFAServices\LearningConsoleApp\obj\Debug\netcoreapp2.1\LearningConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\nawal.sharma\source\repos\KFAServices\LearningConsoleApp\obj\Debug\netcoreapp2.1\LearningConsoleApp.AssemblyInfoInputs.cache
+C:\Users\nawal.sharma\source\repos\KFAServices\LearningConsoleApp\obj\Debug\netcoreapp2.1\LearningConsoleApp.AssemblyInfo.cs
+C:\Users\nawal.sharma\source\repos\KFAServices\LearningConsoleApp\obj\Debug\netcoreapp2.1\LearningConsoleApp.dll
+C:\Users\nawal.sharma\source\repos\KFAServices\LearningConsoleApp\obj\Debug\netcoreapp2.1\LearningConsoleApp.pdb
